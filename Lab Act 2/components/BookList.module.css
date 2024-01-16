@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+  }
+   th {
+    background: white;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background: lightblue;
+  }
+  
+  tr:hover {
+    background: white;
+  }
