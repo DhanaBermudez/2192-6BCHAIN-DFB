@@ -1,0 +1,9 @@
+.Onhand{
+    background-color: green;
+}
+.NotOnhand{
+    background-color: red;
+}
+h1{
+    color: black;
+}
